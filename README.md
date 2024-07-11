@@ -1,2 +1,2 @@
 # Analog-Clock
-Analog Clock using HTML,CSS and JavaScript.
+Analog Clock with Dark/Light mode Toggle using HTML,CSS and JavaScript.
